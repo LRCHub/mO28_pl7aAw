@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Feeling",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-05T13:09:18.754748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feeling Lonely",
+      "artist": "boy pablo",
+      "has_synced": true,
+      "path": "select/01_Feeling_Lonely_boy_pablo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That Old Time Feeling",
+      "artist": "Guy Clark",
+      "has_synced": true,
+      "path": "select/02_That_Old_Time_Feeling_Guy_Clark.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Feeling",
+      "artist": "The Chainsmokers feat. Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/03_This_Feeling_The_Chainsmokers_feat._Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Feeling",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/04_This_Feeling_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I've Got a Feeling",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_I've_Got_a_Feeling_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hooked on a Feeling",
+      "artist": "Björn Skifs & Blåblus",
+      "has_synced": true,
+      "path": "select/06_Hooked_on_a_Feeling_Björn_Skifs_&_Blåblus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hooked On A Feeling",
+      "artist": "Blue Swede, Björn Skifs",
+      "has_synced": true,
+      "path": "select/07_Hooked_On_A_Feeling_Blue_Swede,_Björn_Skifs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Feeling When You Walk Away",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/08_The_Feeling_When_You_Walk_Away_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blues With A Feeling",
+      "artist": "Little Walter",
+      "has_synced": true,
+      "path": "select/09_Blues_With_A_Feeling_Little_Walter.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crazy Feeling",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/10_Crazy_Feeling_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy Feeling (Alternate Version)",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/11_Crazy_Feeling_(Alternate_Version)_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Feeling",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/12_The_Feeling_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Keep Feeling) Fascination",
+      "artist": "The Human League",
+      "has_synced": false,
+      "path": "select/13_(Keep_Feeling)_Fascination_The_Human_League.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Keep Feeling) Fascination",
+      "artist": "Human League",
+      "has_synced": false,
+      "path": "select/14_(Keep_Feeling)_Fascination_Human_League.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feeling Good",
+      "artist": "The Mighty Bop",
+      "has_synced": false,
+      "path": "select/15_Feeling_Good_The_Mighty_Bop.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Feeling Good",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/16_Feeling_Good_Muse.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Feeling So Real",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/17_Feeling_So_Real_Moby.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Feeling So Real",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/18_Feeling_So_Real_Moby.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feeling",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Feeling_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
